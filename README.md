@@ -79,3 +79,17 @@ The project consists of three integrated layers:
 - After simulation, run:  
   ```matlab
   assemble_transactions
+
+---
+
+## 👥 Authors
+
+**Mohammed Ahmed Majid**<br>
+**Mohd Usman**
+
+Department of Electrical Engineering<br>
+Zakir Husain College of Engineering & Technology<br>
+Aligarh Muslim University (AMU)<br>
+
+Project submitted for:<br>
+MathWorks MATLAB & Simulink Challenge 2025
